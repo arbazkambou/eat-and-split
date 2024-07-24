@@ -2,7 +2,7 @@
 
 Eat and Split is a simple React application designed to help you split bills with friends. Whether you’re dining out or sharing expenses, this app calculates how much each person owes based on their payments and the total bill.
 
-[Deployed Project Link](https://react-pizza-menu-sepia.vercel.app/)
+[Deployed Project Link](https://eat-and-split-khaki.vercel.app/)
 
 ## Features
 
